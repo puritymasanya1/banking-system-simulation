@@ -2,7 +2,7 @@
 
 A command-line banking simulation built in Python for practicing **Object-Oriented Programming (OOP)**.
 
-## 🧠 Features
+##  Features
 
 - Create bank accounts with name, password, and initial deposit
 - Check account balance (password-protected)
@@ -10,7 +10,7 @@ A command-line banking simulation built in Python for practicing **Object-Orient
 - Transfer money between accounts
 - Input validation and secure password checks
 
-## 🏗️ Structure
+##  Structure
 
 - `Bank` class: manages all accounts
 - `Account` class: handles individual account operations securely
